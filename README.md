@@ -1,2 +1,2 @@
-# codewars
-Keeping a history of my Codewars solutions.
+# Codewars
+A history of [my](https://www.codewars.com/users/DeeGrant) Codewars solutions.
